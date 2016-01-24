@@ -1,0 +1,28 @@
+name: Canada (East) Films Inc
+favicon: null
+layout_spectrum: 0.5784893911331892
+typography_spectrum: 0.5607807396445423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2167029941920191
+  lightness: 0.7338978054467589
+  saturation: 0.372426318237558
+  rhythmicContrast: 0.45839305920526385
+purpose: []
