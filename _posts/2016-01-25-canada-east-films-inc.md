@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: CEO of Canada (East) Films Inc
-datePublished: '2016-01-25T16:37:30.154Z'
-dateModified: '2016-01-25T16:37:27.498Z'
+datePublished: '2016-01-25T16:38:08.044Z'
+dateModified: '2016-01-25T16:38:05.860Z'
 title: Canada (East) Films Inc
 author: []
 sourcePath: _posts/2016-01-25-canada-east-films-inc.md
