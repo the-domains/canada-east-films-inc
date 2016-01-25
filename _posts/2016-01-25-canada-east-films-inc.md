@@ -1,24 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T16:18:51.459Z'
-dateModified: '2016-01-25T16:16:39.760Z'
+datePublished: '2016-01-25T16:34:33.448Z'
+dateModified: '2016-01-25T16:31:22.233Z'
 title: Canada (East) Films Inc
 author: []
+sourcePath: _posts/2016-01-25-canada-east-films-inc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-canada-east-films-inc.md
-published: true
-_type: Blurb
+url: canada-east-films-inc/index.html
+_type: WebPage
 
 ---
 ### 
