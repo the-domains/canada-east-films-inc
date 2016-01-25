@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: CEO of Canada (East) Films Inc
-datePublished: '2016-01-25T16:42:06.745Z'
+datePublished: '2016-01-25T16:42:06.766Z'
 dateModified: '2016-01-25T16:42:04.401Z'
 title: Canada (East) Films Inc
 author: []
