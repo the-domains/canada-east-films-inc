@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-25T16:35:05.939Z'
-dateModified: '2016-01-25T16:35:02.599Z'
+description: CEO of Canada (East) Films Inc
+datePublished: '2016-01-25T16:37:30.116Z'
+dateModified: '2016-01-25T16:37:27.498Z'
 title: Canada (East) Films Inc
 author: []
 sourcePath: _posts/2016-01-25-canada-east-films-inc.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: canada-east-films-inc/index.html
-_type: WebPage
+_type: Article
 
 ---
 ### 
