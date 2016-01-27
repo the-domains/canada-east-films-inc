@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Coming Soon
-datePublished: '2016-01-27T16:52:41.408Z'
-dateModified: '2016-01-27T16:52:35.800Z'
+datePublished: '2016-01-27T16:54:03.404Z'
+dateModified: '2016-01-27T16:53:58.868Z'
 title: Timekeepers
 author: []
 sourcePath: _posts/2016-01-27-timekeepers.md
