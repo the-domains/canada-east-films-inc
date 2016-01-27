@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Coming Soon
-datePublished: '2016-01-27T16:42:22.275Z'
-dateModified: '2016-01-27T16:41:56.171Z'
+datePublished: '2016-01-27T16:52:41.296Z'
+dateModified: '2016-01-27T16:52:35.800Z'
 title: Timekeepers
 author: []
+sourcePath: _posts/2016-01-27-timekeepers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-timekeepers.md
-published: true
 url: timekeepers/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86004617-29d1-4d5d-aa23-c8eae0aacf7f.jpg)
