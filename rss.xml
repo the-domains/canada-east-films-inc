@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WELCOME TO CANADA (EAST) FILMS INC]]></title>
         <description><![CDATA[WELCOME TO CANADA (EAST) FILMS INC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/canada-east-films-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:57:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 16:42:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/canada-east-films-inc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Timekeepers]]></title>
+            <description><![CDATA[<article><h1>Timekeepers</h1><p>The  science-fiction series "Timekeepers" is scheduled to begin filming in 2016, written  by H. Scott Hughes and produced by Stephen McKinnon, of Canada (East) Films Inc.   This series is based on the  novel "Timekeeper" by Stephen McKinnon.  A top name cast is being assembled and investors are being invited to contact the producer at s.mckinnon@canadaeastfilms.com.  Be watching for promotions and posters in the near future.  Additional information will be posted as it becomes available.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86004617-29d1-4d5d-aa23-c8eae0aacf7f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/canada-east-films-inc/timekeepers/index.html</link>
+            <guid isPermaLink="false">e7c401ab-fb6e-46e5-aaef-8c78e049bf9a</guid>
+            <pubDate>Wed, 27 Jan 2016 16:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[concept]]></title>
             <description><![CDATA[<article><h1>concept</h1><p>The idea of Canada (East) Films Inc. was first conceived in the 90's. It began with formal training in the field of film, digital imaging and video production by its president and founder, Michael Stephen McKinnon. After years of training and development through courses and practical experience, the company was officially formed in 2007.   We intend to expand our professional relations further, and recruit a strong and committed staff.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de285661c0bef6c385142b7fbbc12813a7a623bc.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-canada-east-films-inc/index.html</link>
+            <link>https://thegrid.ai/canada-east-films-inc/welcome-to-canada-east-films-inc/index.html</link>
             <guid isPermaLink="false">70657062-9441-43c7-b544-7be133dba989</guid>
             <pubDate>Tue, 26 Jan 2016 20:57:35 GMT</pubDate>
         </item>
