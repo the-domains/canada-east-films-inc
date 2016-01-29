@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T23:42:33.600Z'
+datePublished: '2016-01-29T23:42:33.622Z'
 dateModified: '2016-01-29T23:42:31.212Z'
 title: Timekeepers
 author: []
