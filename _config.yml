@@ -1,6 +1,6 @@
 name: Canada (East) Films Inc
 favicon: null
-layout_spectrum: 0.24564
+layout_spectrum: 0.51019
 typography_spectrum: 0.50116
 title: WELCOME TO CANADA (EAST) FILMS INC
 cta:
@@ -22,7 +22,7 @@ color:
     - '#bca74c'
     - '#a05035'
     - '#f0de56'
-  brandStrength: 0.25
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
