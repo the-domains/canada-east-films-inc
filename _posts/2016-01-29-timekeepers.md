@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T13:51:41.579Z'
-dateModified: '2016-02-05T13:51:28.904Z'
+datePublished: '2016-02-14T22:52:01.132Z'
+dateModified: '2016-02-14T22:51:55.373Z'
 title: Timekeepers
 author: []
 sourcePath: _posts/2016-01-29-timekeepers.md
